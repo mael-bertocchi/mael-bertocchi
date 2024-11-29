@@ -17,8 +17,14 @@
 <br />
 
 <div align='center'>
-    <a href='https://azure.microsoft.com/en-in/' target='_blank' rel='noreferrer'>
-        <img height='40' alt='docker' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg'>
+    <a href='https://dev.azure.com' target='_blank' rel='noreferrer'>
+        <img height='40' alt='azuredevops' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/azuredevops/azuredevops-original.svg'>
+    </a>
+    <a href='https://azure.microsoft.com/' target='_blank' rel='noreferrer'>
+        <img height='40' alt='azure' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg'>
+    </a>
+    <a href='https://learn.microsoft.com/powershell/' target='_blank' rel='noreferrer'>
+        <img height='40' alt='powershell' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg'>
     </a>
     <a href='https://www.docker.com/' target='_blank' rel='noreferrer'>
         <img height='40' alt='docker' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg'>
@@ -51,11 +57,17 @@
         <img height='40' alt='react' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg'>
     </a>
     <br />
+    <a href='https://learn.microsoft.com/dotnet/csharp/' target='_blank' rel='noreferrer'>
+        <img height='40' alt='c' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg'>
+    </a>
     <a href='https://www.cprogramming.com/' target='_blank' rel='noreferrer'>
         <img height='40' alt='c' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg'>
     </a>
     <a href='https://www.w3schools.com/cpp/' target='_blank' rel='noreferrer'>
         <img height='40' alt='cplusplus' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg'>
+    </a>
+    <a href='https://www.haskell.org/' target='_blank' rel='noreferrer'>
+        <img height='40' alt='haskell' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg'>
     </a>
     <a href='https://www.w3.org/html/' target='_blank' rel='noreferrer'>
         <img height='40' alt='html5' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg'>
@@ -65,6 +77,9 @@
     </a>
     <a href='https://developer.mozilla.org/en-US/docs/Web/JavaScript' target='_blank' rel='noreferrer'>
         <img height='40' alt='javascript' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg'>
+    </a>
+    <a href='https://www.typescriptlang.org/' target='_blank' rel='noreferrer'>
+        <img height='40' alt='typescript' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg'>
     </a>
     <a href='https://www.python.org' target='_blank' rel='noreferrer'>
         <img height='40' alt='python' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
